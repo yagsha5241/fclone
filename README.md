@@ -1,52 +1,19 @@
 # Fclone_Tg_Bot
 ⚫ This is just a Fclone only version of Telegram bot by [Smartass](https://github.com/smartass08) - [Here](https://github.com/smartass08/telegram_gcloner)
 
-🔷 Fclone is just another Tool like Autorclone/Folderclone/Gclone to bypass 750GB limit by google (more optimised for speed)
+🍎[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/publicmm9/fclone)
 
-## 📗 Pre-requisites:-
-1. [Install Python 3.7+](https://www.python.org/downloads/)（Latest version 3.8.3 recommended）
-2. You need Generated SAs (using [Autorclone](https://github.com/xyou365/AutoRclone) or [Folderclone](https://github.com/Spazzlo/folderclone))
-3. Open **accounts** Folder (inside Autorclone or Folderclone Folder) and select any one of the json files and rename it as **1.json**
-4. Zip the accounts Folder and keep it safe
-5. Make a new bot from [Bot Father](https://core.telegram.org/bots#6-botfather) and get the **Bot token**
-6. Get your own Telegram ID - using this [bot](https://t.me/userinfobot)
+🔶. ဖြည့်စရာရှိတာဖြည့်ပြီးရင် telegram က bot ဆီသွားပြီး  **Start** သို့မဟုတ် **/start** နှိပ်ပါ။
+🔶. ပြီးရင် မိမိ SA ဖိုင်ကို **accounts.zip** အဖြစ် zip ချုံ့ပါ။ 🔷🔷🔷 အရေးကြီးတာက အဲ့ဒီ sa နဲ့ အတူထုတ်ထားတဲ့ emails တွေကို groupsmail လုပ်ပြီး မိမိ SD မှာ content manager add ထားပါ။🔷🔷🔷
+🔶. comupter နဲ့သုံးရင် အဲ့ဒီ **accounts.zip** (we created before) ကို upload လုပ်ပြီး caption မှာ **/sa** လို့ရိုက်ပေးပါ။
+🔶. တကယ်လို့ mobiel telegram ဆိုရင် အဲ့ဒီ **accounts.zip** ကို upload လုပ်။ ပြိးရင် အဲ့ဒီ message ကို Reply နှိပ်ပြီး **/sa** လို့ရိုက်ပေးလိုက်ပါ။
+🔶. sa ဖိုင်တင်ပြီးရင် **/folders** လို့ရိုက်လိုက်ပါ။ ဒါဆိုရင် သင့် SA ကို content manager တင်ထားတဲ့ သင့် SD တွေပေါ်လာပါမယ်။ သိမ်းမဲ့ folder ရွေးပါ။ tuto မှာ အသေးစိတ်ပါပါမယ်။
+🔶. ဒါပြီးရင်တော့ သင်ကူးချင်တဲ့ link ၁ ခုထဲ paste ချလိုက်ပါ။ 
 
-## 📙 Installation:-
-1. Download the Zip version of this repo or clone this repo using the command below
-```
-git clone https://github.com/roshanconnor123/Fclone_Tg_Bot
-```
-2. Unzip the Repository and Open CMD inside it (if u used git clone - Change directory to cloned repository)- and run this
-```
-pip install -r requirements.txt
-```
-3. Open config.sample.ini (Its inside telegram_gcloner Folder) - Fill the appropriate values
-```
-[General]
-path_to_gclone =./fclone
-
-telegram_token = telegram bot token
-user_ids = Your Telegram ID (multiple separated by commas, first ID is admin)
-group_ids = Your Telegram Group ID (If you are not adding the bot to any group - you can leave it blank)
-
-gclone_para_override = Leave it Blank
-```
-4. After filling appropriate values - rename it as config.ini and save it
-
-## 🍎 Running the Bot
-🔷 Running in your own System - `python telegram_gcloner.py`
-
-🔶 Running it in Heroku:-
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/drzawlinnmg/FcloneSourceRepo)
-
-1. Create one app in Heroku
-2. Push the Files to Heroku using Heroku CLI
-3. Once its done - go to Telegram Bot you created before and Press **Start**
-4. Upload the **accounts.zip** (we created before) to the bot
-5. Reply to the message with `/sa`
-6. Type /`folders` and set your favourite Folders
-7. Send or forward a message with a Google Drive link to the bot to start Copying...
+🔷SA ဖိုင် ထုတ်ယူနည်း https://t.me/BotTutorialsMM/15  ဒီမှာကြည့်ပါ
+🔷Google Groups mail လုပ်နည်း https://www.youtube.com/watch?v=l8rMlcwtU-g ဒီမှာကြည့်ပါ။
+🔷 SA email (group mail) ကို content manager အဖြစ် မိမိကူးမဲ့ SD မှာ add ထားမှ ကူးလိုရမှာပါ။ addနည်းကို ဒီမှာကြည့်ပါ။ https://tiny.one/dwtykxca
+more on  https://t.me/BotTutorialsMM
 
 ## Credits:
 🧠 [wrenfairbank](https://github.com/wrenfairbank) - [Here](https://github.com/wrenfairbank/telegram_gcloner) - Original Author of the Bot
