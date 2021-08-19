@@ -7,7 +7,8 @@
 ##  ဂရုပြုရန်
 🔶. ဖြည့်စရာရှိတာဖြည့်ပြီးရင် telegram က bot ဆီသွားပြီး  **Start** သို့မဟုတ် **/start** နှိပ်ပါ။
 
-🔶. ပြီးရင် မိမိ SA ဖိုင်ကို **accounts.zip** အဖြစ် zip ချုံ့ပါ။ 🔷🔷🔷 အရေးကြီးတာက အဲ့ဒီ sa နဲ့ အတူထုတ်ထားတဲ့ emails တွေကို groupsmail လုပ်ပြီး မိမိ SD မှာ content manager add ထားပါ။🔷🔷🔷
+🔶. ပြီးရင် မိမိ SA ဖိုင်ကို **accounts.zip** အဖြစ် zip ချုံ့ပါ။ 
+🔷🔷🔷 အရေးကြီးတာက အဲ့ဒီ sa နဲ့ အတူထုတ်ထားတဲ့ emails တွေကို groupsmail လုပ်ပြီး မိမိ SD မှာ content manager add ထားပါ။🔷🔷🔷
 
 🔶. comupter နဲ့သုံးရင် အဲ့ဒီ **accounts.zip** (we created before) ကို upload လုပ်ပြီး caption မှာ **/sa** လို့ရိုက်ပေးပါ။
 
