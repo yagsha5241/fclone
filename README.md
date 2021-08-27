@@ -36,3 +36,8 @@ more on  https://t.me/BotTutorialsMM
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/roshanconnor123/Fclone_Tg_Bot/blob/master/LICENSE) file for details
+
+# ဆက်သွယ်ရန်
+[Bot Tutorials Channel](https://t.me/BotTutorialsMM)
+
+[ContactMe](https://t.me/Dr007bot)
