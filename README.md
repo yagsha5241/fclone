@@ -2,7 +2,7 @@
 ⚫ This is just a Fclone only version of Telegram bot by [Smartass](https://github.com/smartass08) - [Here](https://github.com/smartass08/telegram_gcloner)
 
 ##  🍎RunOn Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/publicmm9/fclone)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/kzinthant-kas/superfclone)
 
 ##  ဂရုပြုရန်
 🔶. ဖြည့်စရာရှိတာဖြည့်ပြီးရင် telegram က bot ဆီသွားပြီး  **Start** သို့မဟုတ် **/start** နှိပ်ပါ။
